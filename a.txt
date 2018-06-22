@@ -1,3 +1,6 @@
 this is the content of file a.txt
 hello
 how are you?
+
+----------
+add more something
